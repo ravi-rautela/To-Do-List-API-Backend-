@@ -19,7 +19,7 @@ This project is a REST API service for managing a simple to-do list application.
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ravi-rautela/To-Do-List-API-Backend-
    ```
 
 2. Navigate to the project directory:
